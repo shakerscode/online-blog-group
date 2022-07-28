@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.text-green{
+  color: #27A365;
+}
+.text-gray{
+  color: #5C5D5D;
+}
+.custom-margin{
+  margin: auto;
+}
+.custom-input{
+  border-radius: 0 30px 30px 0; 
+  height: 40px;
+}
+.custom-span{
+  height: 40px;
+}
+.home-bg{
+  background-image: url('./assets/images//Rectangle\ 2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 440px;
+  width: 100%;
+  backface-visibility: visible;
+}
+.home-bg-color{
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.6) 100%);
+
+}

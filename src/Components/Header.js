@@ -11,7 +11,7 @@ import userLogo from '../assets/images/user-logo-2.png'
 
 const Header = () => {
     const [toggle, setToggle] = useState(false)
-    const [user, setUser] = useState(true)
+    const [user, setUser] = useState(false)
 
 
   return (
